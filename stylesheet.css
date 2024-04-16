@@ -30,6 +30,9 @@ a {
   font-size: 60px;
   letter-spacing: 5px;
 }
+.haikei　 {
+  object-view-box: inset(80px 180px 30px 20px);
+}
 
 .top-wrapper p {
   opacity: 0.7;
